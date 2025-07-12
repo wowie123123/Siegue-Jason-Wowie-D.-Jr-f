@@ -15,6 +15,6 @@ class SIEGUE_ACTIVITY_I {
         System.out.println("addition = " + addition);
         System.out.println("subtraction = " + subtraction);
         System.out.println("multiplication = " + multiplication);
-        System.out.println("divide = " + division);
+        System.out.println("division = " + division);
     }
 }
